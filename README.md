@@ -1,8 +1,7 @@
 # Books
 
 A catalogue of the books on the shelves at home — 200 titles, each with its
-author, publisher, page count, ISBN and a short description, and a cover
-where one could be sourced.
+cover, author, publisher, page count, ISBN and a short description.
 
 Published with GitHub Pages at <https://chrisl2507.github.io/Books/>
 
